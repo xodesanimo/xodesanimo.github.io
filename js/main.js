@@ -550,9 +550,9 @@ $(document).ready(function(){
 						if(progressBranco < 80) {
 							progressBranco += 5;	
 							$("#branco .progress").width(progressBranco);							
-							ptsAtual++;
+							ptsAtual = 1;
 						}else{
-							ptsAtual++;
+							ptsAtual = 1;
 						}
 						break;
 				}	
