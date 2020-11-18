@@ -165,8 +165,8 @@ $(document).ready(function(){
 			id: 8,
 			tipo: "desafio",
 			enunciado: "Qual foi a última vez que fez algo para si mesmo? Ex: Praticou alguma atividade prazerosa, assistiu um filme/leu um livro por diversão, riu de si mesmo...",
-			a: "Realizar ação",
-			b: "Não realizar ação"
+			a: "Recentemente",
+			b: "Não me lembro"
 		},
 		{
 			id: 9,
