@@ -138,7 +138,7 @@ $(document).ready(function(){
 		{
 			id: 5,
 			tipo: "desafio",
-			enunciado: "Vamos fazer alguém feliz! Escolha um jogador.",
+			enunciado: "Escolha um dos jogador e diga algo que você admira nele. (Característica física/personalidade)",
 			a: "Realizar ação",
 			b: "Não realizar ação"
 		},
