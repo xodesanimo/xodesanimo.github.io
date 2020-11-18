@@ -151,6 +151,33 @@ body{
 	z-index: 9999;
 }
 
+@media screen and (max-width: 850px) and (min-height: 300px){
+	.peao{
+		width: 30px;
+	}
+
+	#peao_3, #peao_4{
+		bottom: 40px;
+	}
+
+	.quiz{
+		top: 80px;
+		padding: 5px;		
+		font-size: 10px;
+	}
+
+	.texto{
+		padding: 10px;
+		top: 10px;
+		font-size: 10px;
+	}
+
+	.final{
+		font-size: 12px; 
+	}
+
+}	
+
 @media screen and (max-width: 768px) and (max-height: 425px){
 	.tabuleiro{
 		height: 100%;
